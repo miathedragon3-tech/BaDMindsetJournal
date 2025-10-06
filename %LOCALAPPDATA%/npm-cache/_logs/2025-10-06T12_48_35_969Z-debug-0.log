@@ -1,0 +1,22 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.6.0
+2 info using node@v24.8.0
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\miast\quartz\.npmrc
+5 silly config load:file:C:\Users\miast\.npmrc
+6 silly config load:file:C:\Users\miast\quartz\%APPDATA%\npm\etc\npmrc
+7 verbose title npm exec quartz build --serve --port 3000
+8 verbose argv "exec" "--" "quartz" "build" "--serve" "--port" "3000"
+9 verbose logfile logs-max:10 dir:C:\Users\miast\quartz\%LOCALAPPDATA%\npm-cache\_logs\2025-10-06T12_48_35_969Z-
+10 verbose logfile C:\Users\miast\quartz\%LOCALAPPDATA%\npm-cache\_logs\2025-10-06T12_48_35_969Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+14 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+15 verbose shrinkwrap failed to load node_modules/.package-lock.json missing from lockfile: ../../../../node_modules/agent-base
+16 silly idealTree buildDeps
+17 silly placeDep ROOT @jackyzha0/quartz@4.5.2 REPLACE for:  want: file:../../../..
+18 silly reify moves {}
+19 silly audit bulk request { '@jackyzha0/quartz': [ '4.5.2' ] }
+20 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 230ms
+21 silly audit report {}

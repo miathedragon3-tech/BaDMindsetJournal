@@ -1,0 +1,26 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.6.0
+2 info using node@v24.8.0
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\miast\quartz\.npmrc
+5 silly config load:file:C:\Users\miast\.npmrc
+6 silly config load:file:C:\Users\miast\quartz\.github\workflows\%APPDATA%\npm\etc\npmrc
+7 verbose title npm exec quartz create
+8 verbose argv "exec" "--" "quartz" "create"
+9 verbose logfile logs-max:10 dir:C:\Users\miast\quartz\.github\workflows\%LOCALAPPDATA%\npm-cache\_logs\2025-10-06T11_47_40_132Z-
+10 verbose logfile C:\Users\miast\quartz\.github\workflows\%LOCALAPPDATA%\npm-cache\_logs\2025-10-06T11_47_40_132Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+13 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+14 silly idealTree buildDeps
+15 silly placeDep ROOT @jackyzha0/quartz@4.5.2 OK for:  want: file:../../../../../..
+16 silly reify moves {}
+17 silly audit bulk request { '@jackyzha0/quartz': [ '4.5.2' ] }
+18 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 220ms
+19 silly audit report {}
+20 verbose cwd C:\Users\miast\quartz\.github\workflows
+21 verbose os Windows_NT 10.0.26100
+22 verbose node v24.8.0
+23 verbose npm  v11.6.0
+24 verbose exit 1
+25 verbose code 1
